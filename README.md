@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👍 , I'm Tomas</h1>
 <h3 align="center">passionate software developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomas201513&label=Profile%20views&color=0e75b6&style=flat" alt="tomas201513" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomas201513" alt="tomas201513" /></a> </p>
 
@@ -18,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nQEb3JKge0f9PHqWXVjaaM2IKL5Nv21p/view?usp=sharing](https://drive.google.com/file/d/1nQEb3JKge0f9PHqWXVjaaM2IKL5Nv21p/view?usp=sharing)
 
-- ⚡ Fun fact **One struggle I’ve had that has made me who I am is rejection.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
