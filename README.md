@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomas201513&label=Profile%20views&color=0e75b6&style=flat" alt="tomas201513" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-<h1 align="center">
+<h6 align="center">
 - 🔭 I’m currently working on **INSA services**
 
 - 🌱 I’m currently learning **Machine learning**
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nQEb3JKge0f9PHqWXVjaaM2IKL5Nv21p/view?usp=sharing](https://drive.google.com/file/d/1nQEb3JKge0f9PHqWXVjaaM2IKL5Nv21p/view?usp=sharing)
 
-</h1>
+</h6>
 
 <h3 align="left">Connect with me:</h3>
 
