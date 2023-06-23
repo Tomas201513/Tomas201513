@@ -3,7 +3,7 @@
 <h3 align="center">passionated software developer</h3>
 <h3 align="center"><img src="https://komarev.com/ghpvc/?username=tomas201513&label=Profile%20views&color=0e75b6&style=flat" alt="tomas201513" /></h3>
 
-- 🔭 I’m currently working on **INSA services**
+- 🔭 I’m currently working on **INSA services** / **Vehicle gas Control** / **Bersa e-commerce app**
 
 - 🌱 I’m currently learning **Machine learning**
 
